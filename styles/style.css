@@ -61,3 +61,6 @@
 .moveup{
   margin-top: -200px;
 }
+body{
+  background-color: lightgray;
+}
