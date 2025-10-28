@@ -1,0 +1,63 @@
+.centertext {
+  text-align: center;
+}
+.titles {
+  display: flex;
+  justify-content:space-between;
+  /* gap: 750px; */
+  
+}
+.topleft {
+  position: absolute;
+  top: 2px;
+  left: 20px;
+}
+.border{
+    border: 30px;
+    background-color: grey;
+}
+.imgsize{
+   width: 1000px;       
+  height: auto;      
+  display: block;     
+  margin: 0 auto;   
+}
+.centeraboutmetext{
+
+  text-align: center;
+  position: relative;
+
+  
+  
+} 
+.cardimgsize{
+   width: 100%;  
+      
+  height: auto;     
+  display: block;  
+
+}
+.page1imgsize{
+   width: 1200px;       
+  height: auto;      
+  display: block;     
+  margin: 0 auto;   
+}
+.centerpage{
+    /* text-align: center; */
+  position: relative;
+  top: -500px;
+  display: flex;
+  justify-content: center;
+
+}
+.transparentbox{
+    background-color: rgba(143, 143, 143, 0.733);
+    color: white;
+    padding: 20px 40px;
+    border-radius:10px;
+    text-align: center;
+}
+.moveup{
+  margin-top: -200px;
+}
