@@ -8,6 +8,6 @@
 
  // You can add multiple dates with description.
 
-// Person who Peer Reviewed your assignment: Sammer Saqa -  Figma to actual layer is sort of close. Main issue is that you put that you were going to use a carousel in your figma draft, but you are not using it in your physical site. 
+// Person who Peer Reviewed your assignment: Sammer Saqa -  Figma to actual layer is sort of close. Great job with the carousel
 
 https://www.figma.com/design/PsBvClcHNdVK5pn4guvcpH/Untitled?node-id=13-17&t=DUIjehRWqhXFQUAk-0
